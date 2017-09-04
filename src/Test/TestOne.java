@@ -14,6 +14,6 @@ public class TestOne  extends CaseTmpl{
 	solo.clickOnView("imageview");
 	fastFoodAssert.assertLoginInfo();
 	
-		solo.sleep(5000);
+	//	solo.sleep(5000);
 	}
 }
