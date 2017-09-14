@@ -11,8 +11,14 @@ import android.test.ActivityInstrumentationTestCase2;
 	public class CaseTmpl extends ActivityInstrumentationTestCase2{
 
 		
-		private static String packageName="com.shishike.calm";
-		private static String mainActivity="com.shishike.calm.splash.autoset.StartActivity_";
+		//private static String packageName="com.shishike.calm";
+		//private static String mainActivity="com.shishike.calm.splash.autoset.StartActivity_";
+	//	private static String mainActivity="com.mymoney.ui.splash.Splash ScreenActivity";
+		//com.mymoney.ui.splash.Splash ScreenActivity
+		private static String mainActivity="com.mymoney.ui.main.MainActivity";
+
+		private static String packageName="com.mymoney";
+		
 		public MySolo solo;
 		public Activity activity;
 		public FastFoodAction fastFoodAction;
