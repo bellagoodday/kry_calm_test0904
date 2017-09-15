@@ -15,9 +15,10 @@ import android.test.ActivityInstrumentationTestCase2;
 		//private static String mainActivity="com.shishike.calm.splash.autoset.StartActivity_";
 	//	private static String mainActivity="com.mymoney.ui.splash.Splash ScreenActivity";
 		//com.mymoney.ui.splash.Splash ScreenActivity
-		private static String mainActivity="com.mymoney.ui.main.MainActivity";
+		private static String mainActivity="com.yuhj.ontheway.activity.MainActivity";
 
-		private static String packageName="com.mymoney";
+
+		private static String packageName="com.yuhj.ontheway";
 		
 		public MySolo solo;
 		public Activity activity;
