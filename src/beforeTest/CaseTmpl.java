@@ -1,9 +1,9 @@
-package BeforeTest;
+package beforeTest;
 
 
-	import Action.FastFoodAction;
-import Assert.FastFoodAssert;
-import Util.MySolo;
+	import util.MySolo;
+import myAssert.FastFoodAssert;
+import action.FastFoodAction;
 import android.app.Activity;
 import android.test.ActivityInstrumentationTestCase2;
 

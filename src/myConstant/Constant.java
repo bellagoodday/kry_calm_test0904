@@ -1,4 +1,4 @@
-package MyConstant;
+package myConstant;
 
 public class Constant {
 

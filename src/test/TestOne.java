@@ -1,5 +1,5 @@
-package Test;
-import BeforeTest.CaseTmpl;
+package test;
+import beforeTest.CaseTmpl;
 
 
 

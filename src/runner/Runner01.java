@@ -1,7 +1,7 @@
-package Runner;
+package runner;
 
-import Test.TestOne;
-import TestSuite.TestOneTestSuite;
+import test.TestOne;
+import testSuite.TestOneTestSuite;
 import junit.framework.TestSuite;
 
 public class Runner01  extends CommonRunner{

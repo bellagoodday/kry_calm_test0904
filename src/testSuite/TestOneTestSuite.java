@@ -1,6 +1,6 @@
-package TestSuite;
+package testSuite;
 
-import Test.TestOne;
+import test.TestOne;
 import junit.framework.TestSuite;
 
 public class TestOneTestSuite {

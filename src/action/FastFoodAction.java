@@ -1,6 +1,6 @@
-package Action;
+package action;
 
-import Util.MySolo;
+import util.MySolo;
 
 public class FastFoodAction{
 	public MySolo solo;

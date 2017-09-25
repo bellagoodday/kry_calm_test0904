@@ -1,7 +1,7 @@
-package Assert;
+package myAssert;
 
+import util.MySolo;
 import junit.framework.Assert;
-import Util.MySolo;
 
 public class FastFoodAssert {
 	public MySolo solo;

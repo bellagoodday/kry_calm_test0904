@@ -1,4 +1,4 @@
-package MyID;
+package myID;
 
 public class ID {
 
