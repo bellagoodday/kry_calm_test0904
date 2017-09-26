@@ -1,6 +1,4 @@
 #!/bin/sh
-echo "ant clean debug"
-ant clean debug
 echo "uninstall source apk"
 adb uninstall com.yuhj.ontheway
 adb uninstall com.android.systemui.tests
