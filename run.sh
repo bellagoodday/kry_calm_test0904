@@ -1,5 +1,5 @@
 #!/bin/sh
-echo "start to build APP and test APP"
+echo "ant clean debug"
 ant clean debug
 echo "uninstall source apk"
 adb uninstall com.yuhj.ontheway
