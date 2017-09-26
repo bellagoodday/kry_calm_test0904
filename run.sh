@@ -1,4 +1,6 @@
 #!/bin/sh
+echo "adb devices"
+adb devices
 echo "uninstall source apk"
 adb uninstall com.yuhj.ontheway
 adb uninstall com.android.systemui.tests
