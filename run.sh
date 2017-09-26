@@ -1,6 +1,6 @@
 #!/bin/sh
-echo "adb devices"
-adb devices
+echo "adb connect 127.0.0.1:62001"
+adb connect 127.0.0.1:62001
 echo "uninstall source apk"
 adb uninstall com.yuhj.ontheway
 adb uninstall com.android.systemui.tests
