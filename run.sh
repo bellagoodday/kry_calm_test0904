@@ -3,7 +3,6 @@ echo "adb connect 127.0.0.1:62001"
 adb connect 127.0.0.1:62001
 echo "uninstall source apk"
 adb uninstall com.yuhj.ontheway
-adb uninstall com.android.systemui.tests
 echo "uninstall tested apk"
 adb uninstall com.yuhj.ontheway.test.test
 echo "start to install source apk"
