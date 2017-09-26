@@ -1,6 +1,5 @@
 #!/bin/sh
 echo "start to build APP and test APP"
-cd workspace
 ant clean debug
 cd ..
 
