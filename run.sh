@@ -1,7 +1,7 @@
 #!/bin/sh
 echo "adb connect 127.0.0.1:62001"
 adb connect 127.0.0.1:62001
-pwd
+$pwd
 echo "start to install source apk"
 adb install workspace/apk/WelcomeActivity-debug.apk
 echo "start to install tested apk"
